@@ -72,9 +72,6 @@ crashlytics-build.properties
 # macOS
 .DS_Store
 
-# Local planning notes - not part of the project
-/docs/
-
 # VS Code
 .vscode/*
 !.vscode/settings.json
